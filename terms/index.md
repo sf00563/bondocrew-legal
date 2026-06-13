@@ -8,7 +8,7 @@ These Terms of Service ("Terms") govern your use of **Bondo Crew**, a mobile app
 
 ## 1. Acceptance of Terms
 
-By accessing or using the App you confirm that you are at least **16 years old** and have the legal capacity to enter into these Terms. If you are under 18, you confirm that a parent or legal guardian has reviewed and agreed to these Terms on your behalf.
+By accessing or using the App you confirm that you are at least **17 years old** and have the legal capacity to enter into these Terms. If you are under 18, you confirm that a parent or legal guardian has reviewed and agreed to these Terms on your behalf.
 
 ---
 
@@ -60,13 +60,14 @@ The App provides in-app messaging between users.
 
 ---
 
-## 7. Location Services
+## 7. Location
 
-The App may request access to your device's location.
+A location must be provided during account setup to use the App. During onboarding you may either:
 
-- Location data is used to provide location-relevant features within the App (for example, finding nearby opportunities or users).
-- Granting location access is optional. You can withdraw permission at any time in your device settings. Some features may not work without it.
-- Location data is not sold to third parties.
+- **Pin a location manually** on the map without granting device location permission; or
+- **Share your device location** using Apple's location services to set your location automatically.
+
+The choice is yours. If you choose to use Apple's location services, you may withdraw that permission at any time in your device settings — your previously set location will remain on your account until you change it. Location data is used solely to provide location-relevant features within the App and is not sold to third parties.
 
 ---
 
