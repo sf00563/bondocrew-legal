@@ -18,11 +18,12 @@ The App is operated by **Sam Foster**, an individual based in England. For any p
 
 ### 2.1 Account and Profile Information
 
-When you create an account we collect:
+When you create an account (via Firebase Authentication) we collect:
 
 - Your name
 - Your email address
 - Your profile photo (if you choose to upload one)
+- Links to your public social media or professional profiles (e.g. Instagram, IMDb), if you choose to add them
 - Any other information you add to your profile
 
 ### 2.2 User-Generated Content
@@ -57,6 +58,10 @@ This data cannot be used to identify you personally.
 
 When you use the App, Firebase and Apple's infrastructure may automatically collect certain technical data such as IP address, device identifiers, and app version. This is used solely for operating and improving the App.
 
+### 2.6 Push Notifications
+
+If you enable notifications, we collect and store a device push token (provided by Apple Push Notification service) to send you notifications about relevant activity, such as new messages or job posts. You can disable notifications at any time in your device settings.
+
 ---
 
 ## 3. How We Use Your Data
@@ -70,6 +75,7 @@ We use the data we collect to:
 - Improve and debug the App using anonymised analytics
 - Respond to support requests
 - Comply with legal obligations
+- Send you push notifications about relevant activity (if enabled)
 
 ---
 
@@ -88,7 +94,7 @@ As we are based in England, we process your personal data under the following le
 We do not sell your personal data. We may share data in the following limited circumstances:
 
 - **Other users** — your profile, posts, and location (to the extent you have set it) are visible to other users of the App as part of its core functionality.
-- **Firebase / Google** — anonymised analytics data is processed by Google LLC under Google's privacy terms. See [https://policies.google.com/privacy](https://policies.google.com/privacy).
+- **Firebase / Google** — your account credentials (email) and anonymised analytics data are processed by Google LLC under Google's privacy terms. See [https://policies.google.com/privacy](https://policies.google.com/privacy).
 - **Apple** — the App operates on Apple's platform. Apple may process certain technical data in accordance with Apple's privacy policy at [https://www.apple.com/legal/privacy](https://www.apple.com/legal/privacy).
 - **Legal requirements** — we may disclose data if required to do so by law or in response to valid requests from public authorities.
 
